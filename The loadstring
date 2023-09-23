@@ -1,0 +1,2 @@
+-- put this thing in ur executer for easy execution
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SpicyLikeAsnake/Zyleaks-MM2-Hax/main/ThaScript'))()  
